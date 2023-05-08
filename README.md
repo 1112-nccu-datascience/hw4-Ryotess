@@ -2,7 +2,7 @@
 
 #### Name: [陳劭晏]
 #### Student ID: [110354012]
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_studentID/>]
+#### ShinyApps link: [<https://hiimryts.shinyapps.io/NCCU_DS2023_hw4_110354012/>]
 
 ## Description
 
